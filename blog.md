@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: growing-pains
 permalink: /blog/
 title: blog
 command: ls -l
@@ -8,7 +8,7 @@ command: ls -l
 ### total {{ site.posts | size }}
 <div class="posts">
   {% assign sorted = site.posts | sort: 'date' %}
-  {% for post in sorted %}
+  {% for post in sorted reversed %}
     <article class="post">
 
       <h5>{{ post.description }}</h5>
