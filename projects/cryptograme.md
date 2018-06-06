@@ -34,7 +34,7 @@ The requirements I gave myself were as such:
 * Webapp  
 * Decode at will  
 * Accessible later on  
-* Mobile compliant  
+* Mobile friendly  
 * Not ugly 
 
 **This project is still in the works**
