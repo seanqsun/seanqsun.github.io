@@ -8,17 +8,12 @@ permalink: /about
 
 ## Does this count as doxxing myself?
 
-Currently, I am a senior at the Rochester Institute of Techonlogy studying **Computing Security**. I used to run the <a class="link1" href="https://rc3.club">**RIT's Competitive Cybersecurity Club**</a>, but I'm spending my last year working on personal projects. At heart, I enjoy building organizations and leading teams.
+Currently, I am a junior at the Rochester Institute of Techonlogy studying **Computing Security**. At school, I am the **President** for <a class="link1" href="https://rc3.club">**RIT's Competitive Cybersecurity Club**</a>. At heart, I enjoy building and scaling organizations.
 
 I like cybersecurity in itself, but I love the concept of fusing it with another aspect of our lives. Like with finance. *Gently whispers: blockchain*
 
 ## So far, I have worked here:
 
-*  Security Engineer Intern @ CoreOS, Red Hat
-    * May 2018 - It's happening right now!
-    * Primarily on the openshift/console team
-    * Broke things in console and then fixed the bugs.
-    * Wrote code to handle user authentication securely
 * Security Engineer Intern @ The Vanguard Group
     * May 2017 - August 2017  
     * Enterprise Security & Fraud Division
