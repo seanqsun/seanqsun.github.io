@@ -6,14 +6,24 @@ permalink: /projects/
 
 ### guest@seanqsun:~/site/{{page.title}}$ ls -l
 
-### total 4
+### total 6
 
 <div class="workType">
 <h2>Commerical</h2>
-<p>What I get paid for</p>
+<p>Cool stuff they pay me money to do</p>
 </div>
-  
-Nothing to see here, folks.
+
+###### Openshift Console <a class="link1" href="https://github.com/openshift/console">>></a>
+Pull Requests: 
+<a class="link2" href="https://github.com/openshift/console/pull/60">#60</a>
+,
+<a class="link2" href="https://github.com/openshift/console/pull/66">#66</a>
+
+###### A Go OpenID Connect Client <a class="link1" href="https://github.com/coreos/go-oidc">>></a>
+Pull Requests: 
+<a class="link2" href="https://github.com/coreos/go-oidc/pull/172">#172</a>
+,
+<a class="link2" href="https://github.com/coreos/go-oidc/pull/172">#173</a>
 
 <hr>
 
@@ -50,7 +60,7 @@ Static e-commerce platform leveraging multiple freemium APIs and services to red
 <a class="link2" href="/work/yaep">Writeup</a>
 
 ###### Cryptogra.me - Backburner <a class="link1" href="http://cryptogra.me">>></a>   
-Write in public, in private. Currently in progress.  
+Write in public, in private. 
 <a class="link2" href="/work/cryptograme">Writeup</a>
 
 
