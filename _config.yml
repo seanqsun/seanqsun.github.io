@@ -1,0 +1,23 @@
+# Site settings
+title: Sean Q. Sun
+tag_text: Sean Q. Sun
+description: Professional website and blog.
+permalink: /:title/
+
+# Build settings
+kramdown:
+    input: GFM
+    syntax_highlighter: rouge
+    syntax_highlighter_opts:
+        css_class: 'highlight'
+gems:
+    - jekyll-sitemap
+    - jekyll-feed
+
+exclude:
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
+    - CNAME
+      
