@@ -1,2 +1,2 @@
-# seanqsun.github.io
-Personal and Professional site
+# Sean-Q-Sun.github.io
+Professional and personal site
