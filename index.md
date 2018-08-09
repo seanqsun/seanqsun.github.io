@@ -5,17 +5,17 @@ title: homepage
 
 ### guest@seanqsun:~/site/{{page.title}}$ 
 
-## Hi there, how's it going?
+## Is it me you're looking for?
 
-I am Sean, a button up wearing, coffee chugging millennial hailing from good ol' New York City. I've traveled the land far and wide to study Computer Security at the Rochester Institute of Technology.
+Hi, I'm Sean. I am a freelance **brand identity designer** for cybersecurity companies. I'm here for you from logo design to fully built website.
 
-When I'm not in a class or a club, I scratch my own itches with side projects. My passion is in designing and developing elegant, yet secure digital experiences. So sometimes I'll write about the stuff I'm doing.
+But during the day, I work as a **security engineer**; which helps a whole lot with the first part. I also, obsessively, work on personal projects to explore different sides of cyberscurity that I can't find on the Internet. I believe my passion is in designing and developing elegant, yet secure digital experiences. Keep up to date with my antics through my <a class="link1" href="https://www.seanqsun.com/blog">blog</a>.
 
-So stay awhile, take a look around.
+Anwyway, stay awhile, take a look around. You're always welcome.
 
 
 <hr>
-<a class="link1" href="Resume.pdf" target="_blank">résumé</a> : <a class="link1" href="https://www.github.com/sean-q-sun">github</a> : <a class="link1" href="https://www.linkedin.com/in/seanqsun">linkedin</a>  
-<a class="link1"  href="public.asc" target="_blank">pgp</a> : <a class="link1" href="mailto:sean@seanqsun.com">email</a> : <a class="link1" href="https://www.twitter.com/seanrisesunset">twitter</a> : <a class="link1" href="http://www.seanqsun.com/blog">blog</a>
+<a class="link1" href="Resume.pdf" target="_blank">résumé</a> : <a class="link1" href="https://www.github.com/seanqsun">github</a> : <a class="link1" href="https://www.linkedin.com/in/seanqsun">linkedin</a>  
+<a class="link1"  href="public.asc" target="_blank">pgp</a> : <a class="link1" href="mailto:sean@seanqsun.com">email</a> : <a class="link1" href="https://www.twitter.com/seanqsun">twitter</a> : <a class="link1" href="http://www.seanqsun.com/blog">blog</a>
 
 

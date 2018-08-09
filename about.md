@@ -10,15 +10,16 @@ permalink: /about
 
 Currently, I am a senior at the Rochester Institute of Techonlogy studying **Computing Security**. I used to run the <a class="link1" href="https://rc3.club">**RIT's Competitive Cybersecurity Club**</a>, but I'm spending my last year working on personal projects. At heart, I enjoy building organizations and leading teams.
 
-I like cybersecurity in itself, but I love the concept of fusing it with another aspect of our lives. Like with finance. *Gently whispers: blockchain*
+I like cybersecurity in itself, but I love the concept of fusing it with another aspect of our lives. Often you'll find that my creative projects explore cybersecurity both technically and culturally.
 
 ## So far, I have worked here:
 
 *  Security Engineer Intern @ CoreOS, Red Hat
-    * May 2018 - It's happening right now!
-    * Primarily on the openshift/console team
-    * Broke things in console and then fixed the bugs.
-    * Wrote code to handle user authentication securely
+    * May 2018 - August 2018
+    * Had the unique experience to work in both SF and NYC with two very different teams.
+    * SF: Broke things in openshift/console and then fixed thems.
+    * NYC: Added an API to openshift/origin to allow group membership reuse.
+    * <a class="link1" href="{{site.baseurl}}/blog/0x03">Read more about my experience here.</a>
 * Security Engineer Intern @ The Vanguard Group
     * May 2017 - August 2017  
     * Enterprise Security & Fraud Division
